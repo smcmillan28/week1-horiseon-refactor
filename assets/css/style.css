@@ -1,3 +1,5 @@
+/* General styling for entire page */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Styling for top header including links to other parts of the page */
 
 .header {
     padding: 20px;
@@ -47,6 +51,8 @@ p {
     font-size: 16px;
 }
 
+/* Dimensions and styling for main image on homepage */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -55,6 +61,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Alignment for sections and floating images in the content section */
 
 .float-left {
     float: left;
@@ -71,6 +79,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Styling below for the aside */
 
 .benefits {
     margin-right: 20px;
@@ -100,6 +110,8 @@ p {
     max-width: 150px;
 }
 
+/* Contect section styling and formatting */
+
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -117,6 +129,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Styling for the footer */
 
 .footer {
     padding: 30px;
