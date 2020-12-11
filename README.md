@@ -4,6 +4,9 @@ In this repository, you will find refactored code for the Horiseon homepage.  We
 # Functions/Operations
 Each link in the top bar will automatically take you to a more detailed section on the homepage.  
 
+# What You Should See
+![WebpageHome](./assets/images/horiseonHome.JPG?raw=true)
+
 # Code Used
 HTML/CSS
 
