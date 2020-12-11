@@ -6,6 +6,7 @@ Each link in the top bar will automatically take you to a more detailed section 
 
 # What You Should See
 ![WebpageHome](./assets/images/horiseonHome.JPG?raw=true)
+![WebpageHome](./assets/images/horiseonArticle.JPG?raw=true)
 
 # Code Used
 HTML/CSS
